@@ -1,0 +1,40 @@
+TEMPO
+= f"https://wttr.in/{cidade}?lang=pt"
+
+CEP 
+= f"https://viacep.com.br/ws/{cep}/json/"
+
+API FOTO CACHORRO
+= "https://dog.ceo/api/breeds/image/random"
+
+API FOTO Gato
+= "https://api.thecatapi.com/v1/images/search"
+
+API NOME POR PAIS
+= f"https://api.nationalize.io/?name={nome}"
+
+NOMES IBGE
+= f"https://servicodados.ibge.gov.br/api/v2/censos/nomes/{nome}"
+
+FERIADOS
+= f"https://brasilapi.com.br/api/feriados/v1/{ano}"
+
+PAIS
+= f"https://countries.dev/name/{pais}"
+
+JOGADOR
+= f"https://www.thesportsdb.com/api/v1/json/3/searchplayers.php?p={nome}"
+
+NASA
+= "https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY"
+
+ANIME
+= f"https://api.jikan.moe/v4/anime/{codigo}"
+
+from deep_translator import GoogleTranslator
+
+tradutor = GoogleTranslator(source="en", target="pt")
+
+
+
+

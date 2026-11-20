@@ -1,0 +1,32 @@
+| Código| Anime                            |
+|------:| -------------------------------- |
+|     1 | Cowboy Bebop                     |
+|    20 | Naruto                           |
+|    21 | One Piece                        |
+|    22 | Dragon Ball                      |
+|   269 | Bleach                           |
+|   813 | Dragon Ball Z                    |
+|  1535 | Death Note                       |
+|  5114 | Fullmetal Alchemist: Brotherhood |
+|  6702 | Fairy Tail                       |
+| 11061 | Hunter x Hunter                  |
+| 11757 | Sword Art Online                 |
+| 16498 | Attack on Titan                  |
+| 20583 | Haikyuu!!                        |
+| 22199 | Akame ga Kill!                   |
+| 22319 | Tokyo Ghoul                      |
+| 28851 | Koe no Katachi                   |
+| 31964 | My Hero Academia                 |
+| 38000 | Demon Slayer                     |
+| 40748 | Jujutsu Kaisen                   |
+| 52991 | Sousou no Frieren                |
+| 30276 | One Punch Man                    |
+| 32182 | Mob Psycho 100                   |
+| 34572 | Black Clover                     |
+| 37521 | Vinland Saga                     |
+| 38691 | Dr. Stone                        |
+| 44511 | Chainsaw Man                     |
+| 49596 | Blue Lock                        |
+| 50265 | Spy x Family                     |
+| 52299 | Solo Leveling                    |
+| 14719 | JoJo's Bizarre Adventure         |
