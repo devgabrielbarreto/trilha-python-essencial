@@ -26,10 +26,10 @@ O minicurso aconteceu em **4 encontros presenciais** nos dias **20, 22, 27 e 29 
 ## 📸 Registros da Trilha
 
 ### Aulas Práticas em Laboratório
-![Aulas práticas no laboratório de informática](midia/aulas-laboratorio.jpg)
+![Aulas práticas no laboratório de informática](midia/aulas-laboratorio.png)
 
 ### Modelo de Certificação
-![Modelo de certificado de conclusão](midia/modelo-certificado.jpg)
+![Modelo de certificado de conclusão](midia/modelo-certificado.png)
 
 ## 👨‍🏫 Autor
 **Gabriel Oliveira Barreto**  
